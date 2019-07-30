@@ -42,6 +42,6 @@ run in python3.5
 
 ```python
 # go to project directory, and execute
-~$ python Q5Answer.py
+$ python Q5Answer.py
 # the output will print in the console
 ```
